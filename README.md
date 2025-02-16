@@ -13,6 +13,16 @@ This helps us keep the arsenal reliable and ready for action.
 
 ℹ️ See the [`CONTRIBUTING.md`](/.github/CONTRIBUTING.md) file for detailed guidelines on submitting your contributions.
 
+# How to integrate the `Simulink Arsenal` in your project
+To integrate the `Simulink Arsenal` in your project, you can either clone this repository or add it as a submodule.
+The latter option is recommended, as it allows you to easily update the `Simulink Arsenal` to the latest version and keep the it embedded in your project.
+To this end, follow the following MathWorks instructions:
+- [Organize Projects into Components Using References and Git Submodules](https://www.mathworks.com/help/simulink/slref/organize-project-into-components-using-submodules.html)
+
+> [!note]
+> Once integrated inside your project, remember that Git does not clone automatically submodules.
+> To achieve this just yield `git clone <your-project-repo> --recurse-submodules` or `git submodule update --init --recursive`.
+
 # Maintainers
 This repository is maintained by:
 
