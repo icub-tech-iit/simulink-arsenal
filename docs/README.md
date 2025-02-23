@@ -11,5 +11,5 @@
 - [Adaptive Window Least-Squares Estimators](./estimators/adaptive_window_least_squares/)
 
 # Sensing
-- [Encoders Impairments](./sensing/encoders_impairments/)
+- [Rotary Encoders Impairments](./sensing/rotary_encoders_impairments/)
 
