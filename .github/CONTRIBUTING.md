@@ -40,7 +40,7 @@ Before you start, please take a look at the [Issues](../../../issues) page.
     *   Be self-contained and easy to run.
     *   Provide clear pass/fail criteria.
     *   Include comments explaining the purpose of each test.
-    * Be placed in a directory named `tests` inside the component's directory.
+    * Be placed in a directory named `tests`.
 
 6.  **Commit Your Changes:**
     ```bash
