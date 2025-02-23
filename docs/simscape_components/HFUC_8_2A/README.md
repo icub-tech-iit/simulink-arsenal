@@ -1,7 +1,14 @@
 HFUC_8_2A Harmonic Drive
 ========================
 
-This component implements the Simscape model of the harmonic drive HFUC_8_2A. 
-Nonlinearities are linked to the corresponsing datasheet.
+- This component implements the Simscape model of the harmonic drive HFUC_8_2A.
+- Nonlinearities are linked to the corresponsing datasheet.
 
-![screenshot](./assets/screenshot.png)
+![model](./assets/model.png)
+
+### Test
+You can run the associated test that allows to log and plot the relevant quantities: torque, velocities, efficiency.
+
+![test](./assets/test.png)
+
+![results](./assets/results.png)

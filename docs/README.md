@@ -1,5 +1,5 @@
-Documentation
-=============
+📖 Documentation
+=================
 
 # Simscape Components
 - [HFUC_8_2A Harmonic Drive](./simscape_components/HFUC_8_2A/)
@@ -11,5 +11,5 @@ Documentation
 - [Adaptive Window Least-Squares Estimators](./estimators/adaptive_window_least_squares/)
 
 # Sensing
-- [Encoders Impairments](./sensing/encoders_impairments/)
+- [Rotary Encoders Impairments](./sensing/rotary_encoders_impairments/)
 

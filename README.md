@@ -28,7 +28,7 @@ The library is called: **iCub Tech Arsenal**.
 > To achieve this, just yield `git clone <your-project-repo> --recurse-submodules` or `git submodule update --init --recursive`.
 
 # Documentation
-Check out the individual components [documentation](/docs) 🚧 WIP 🚧
+Check out the individual components [documentation](/docs) 📖
 
 # Maintainers
 This repository is maintained by:
