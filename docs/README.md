@@ -1,5 +1,5 @@
-Documentation
-=============
+📖 Documentation
+=================
 
 # Simscape Components
 - [HFUC_8_2A Harmonic Drive](./simscape_components/HFUC_8_2A/)
