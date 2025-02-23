@@ -6,7 +6,7 @@ Discrete Minimum Jerk Filter
 - The block is ready for code generation. 
 
 ℹ️ The implementation is based on the paper:
-- [An experimental evaluation of a novel minimum-jerk cartesian controller for humanoid robots](https://ieeexplore.ieee.org/document/5650851).
+- [An experimental evaluation of a novel minimum-jerk cartesian controller for humanoid robots](https://ieeexplore.ieee.org/document/5650851)
 
 ![model](./assets/model.png)
 
