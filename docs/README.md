@@ -13,3 +13,6 @@
 # Sensing
 - [Rotary Encoders Impairments](./sensing/rotary_encoders_impairments/)
 
+# Motor Control
+- [Current Limiter]()
+
