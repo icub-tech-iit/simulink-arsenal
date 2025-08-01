@@ -14,5 +14,5 @@
 - [Rotary Encoders Impairments](./sensing/rotary_encoders_impairments/)
 
 # Motor Control
-- [Current Limiter]()
+- [Current Limiter](./motor_control/current_limiter/)
 
