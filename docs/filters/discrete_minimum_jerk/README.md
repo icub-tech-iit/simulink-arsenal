@@ -13,6 +13,8 @@ Discrete Minimum Jerk Filter
 ### Test
 You can run the associated test that allows to compare the filter output with the exact minimum jerk reference trajectory.
 
+At the mid instant of the time window, we show how the filter can be reset to a specified output.
+
 ![test](./assets/test.png)
 
 ![results](./assets/results.png)
