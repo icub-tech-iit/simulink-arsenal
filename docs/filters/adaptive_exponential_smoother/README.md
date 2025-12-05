@@ -43,4 +43,6 @@ $$
 ![model](assets/model.png)
 
 ### Test
-You can run the associated test in `tests/test_exponential_adaptive_smoother.slx`.
+You can run the associated test in `tests/test_exponential_adaptive_smoother.slx`, showing the following result. We see how the variance converges to the set values, while the original signal is smoothed out.
+
+![model](assets/test.png)
