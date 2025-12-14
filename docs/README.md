@@ -14,3 +14,6 @@
 
 # Sensing
 - [Rotary Encoders Impairments](./sensing/rotary_encoders_impairments/)
+
+# Signal Conditioning
+- [Current Limiter](./signal_conditioning/current_limiter/)
