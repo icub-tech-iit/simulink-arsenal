@@ -1,6 +1,10 @@
 Simulink Arsenal 🛡️
 ===================
 
+[![](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/182933-simulink-arsenal)
+[![](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/fileexchange/v1?id=182933)
+
+
 # Overview
 `Simulink Arsenal` is your one-stop shop for battle-tested Simulink components, utilities, and workflows.
 We've gathered the sharpest tools and strategies for conquering complex system modeling challenges.
